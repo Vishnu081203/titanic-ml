@@ -92,7 +92,7 @@ Built a **Streamlit** web app where users can input passenger details and get su
 
 ## ⚙️ Installation Guide (Run Locally)
 
-```bash
+'''bash
 # Clone the repo
 git clone https://github.com/Vishnu081203/titanic-ml.git
 cd titanic-ml
@@ -102,6 +102,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run src/streamlit_app.py
+---
 
 Then open http://localhost:8501
 
@@ -136,6 +137,7 @@ Joblib – model serialization
 Streamlit – deployment UI
 
 🧾 Project Structure
+
 titanic-ml/
 │
 ├── data/
@@ -171,7 +173,6 @@ AI & ML Placement Project — Titanic Survival Prediction
 🌐 GitHub: Vishnu081203
 
 ⭐ Don’t forget to star this repo if you found it useful!
-
 
 ---
 
