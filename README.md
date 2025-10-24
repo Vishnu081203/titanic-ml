@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
 ### 🔗 Live App:
-👉 [**Click to Open App**](https://titanic-ml-vishnu081203.streamlit.app)
+👉 [**Click to Open App**](https://titanic-ml-3zkhevafpkumwqbuhsykdd.streamlit.app/)
 
 ### 💻 GitHub Repository:
 👉 [**https://github.com/Vishnu081203/titanic-ml**](https://github.com/Vishnu081203/titanic-ml)
