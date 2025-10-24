@@ -8,8 +8,7 @@ print(df.head())
 print(df.info())
 
 # Handle missing values
-df['Age'].fillna(df['Age'].median(), inplace=True)
-df['Embarked'].fillna(df['Embarked'].mode()[0], inplace=True)
+df.fillna({'Age': df['Age'].median(), 'Embarked': df['Embarked'].mode()[0]}, inplace=True)
 df.drop(columns=['Cabin'], inplace=True)
 
 # Check duplicates
@@ -28,7 +27,7 @@ sns.barplot(x='Sex', y='Survived', data=df)
 plt.title("Survival Rate by Gender")
 plt.show()
 
-sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
+sns.heatmap(df.select_dtypes(include=['number']).corr(), annot=True, cmap='coolwarm')
 plt.title("Feature Correlation Heatmap")
 plt.show()
 
