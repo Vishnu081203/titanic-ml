@@ -183,5 +183,3 @@ AI & ML Placement Project — Titanic Survival Prediction
 ✅ Automatically shows live app + repo badges
 
 ---
-
-Would you like me to include **two screenshots placeholders** (mock images of the Streamlit app UI and prediction output) so you can easily drop your own screenshots in?
