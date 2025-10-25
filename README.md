@@ -169,7 +169,7 @@ Full-cycle ML project development from raw data to live app
 
 Vishnu Vardhan
 AI & ML Placement Project — Titanic Survival Prediction
-📧 Email: [add your email if needed]
+📧 Email: vishnu40500@gmail.com
 🌐 GitHub: Vishnu081203
 
 ⭐ Don’t forget to star this repo if you found it useful!
